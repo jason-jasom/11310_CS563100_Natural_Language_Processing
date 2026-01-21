@@ -8,7 +8,7 @@ Our team focused on extracting meaningful features from the data to improve mode
 
 ![alt text](assets/image.png)
 
-kaggle link: https://www.kaggle.com/datasets/datafan07/aes-whls
+kaggle link: https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2
 
 
 # Running
@@ -16,11 +16,19 @@ kaggle link: https://www.kaggle.com/datasets/datafan07/aes-whls
 Exucute final-project/group66-final-project.ipynb on kaggle with related input:
 
 https://www.kaggle.com/datasets/datafan07/sent-debsmall
+
 https://www.kaggle.com/datasets/nbroad/persaude-corpus-2
+
 https://www.kaggle.com/datasets/datafan07/feedback-data
+
 https://www.kaggle.com/datasets/hiromoon166/deberta-v3-large
+
 https://www.kaggle.com/datasets/gaslauhfiejfjp/deberta
+
 https://www.kaggle.com/datasets/hoangsang2938/bert-base-uncased
+
 https://www.kaggle.com/datasets/gaslauhfiejfjp/bert-cls
+
 https://www.kaggle.com/datasets/hideyukizushi/aes2-400-20240419134941
+
 https://www.kaggle.com/datasets/datafan07/aes-whls
